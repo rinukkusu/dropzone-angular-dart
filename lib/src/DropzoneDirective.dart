@@ -3,7 +3,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'dart:js';
-import 'package:angular2/core.dart';
+import 'package:angular/core.dart';
 
 import 'package:dropzone_angular_dart/src/Dropzone.dart';
 import 'package:dropzone_angular_dart/src/DropzoneConfiguration.dart';
